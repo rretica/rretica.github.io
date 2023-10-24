@@ -1,0 +1,2195 @@
+[
+	{
+		"id": "http://zotero.org/users/9445006/items/YAT4F5F2",
+		"type": "book",
+		"call-number": "BD241 .E34 1997",
+		"event-place": "New Haven",
+		"ISBN": "978-0-300-06694-4",
+		"publisher": "Yale University Press",
+		"publisher-place": "New Haven",
+		"source": "ils.lib.virginia.edu Library Catalog",
+		"title": "Hermeneutics and the rhetorical tradition: chapters in the ancient legacy & its humanist reception",
+		"title-short": "Hermeneutics and the rhetorical tradition",
+		"author": [
+			{
+				"family": "Eden",
+				"given": "Kathy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/L34R7AT6",
+		"type": "article-journal",
+		"archive": "Supplemental Index",
+		"container-title": "Rhetorica",
+		"DOI": "10.1525/rh.1987.5.1.59",
+		"ISSN": "07348584; 15338541",
+		"issue": "1",
+		"language": "English",
+		"source": "search.lib.virginia.edu",
+		"title": "Hermeneutics and the Ancient Rhetorical Tradition",
+		"URL": "https://proxy01.its.virginia.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&site=eds-live&db=edo&AN=ejs11030997",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Eden",
+				"given": "Kathy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/RNMGV4XJ",
+		"type": "article-journal",
+		"abstract": "The literature of the Tudor age, like that of earlier and immediately subsequent ages, has some of its deepest roots in the rhetorical tradition. This tradition is represented by a massive accumulation of writings and patterns of behavior which fed Western education and culture from antiquity well into the eighteenth century, but which until a generation ago had grown increasingly unfamiliar even to most scholars, following the Romantic reluctance to take rhetoric seriously as a conscious art. Recent scholarship, particularly in the United States, has re-explored the tradition, but the results and implications are not always widely known. The theory and practice of rhetoric can still be excluded from consideration in histories of Tudor literature, although by now one meets sometimes with wry acknowledgment of the central importance of what is being excluded.",
+		"container-title": "Studies in the Renaissance",
+		"DOI": "10.2307/2857004",
+		"ISSN": "0081-8658, 2326-0823",
+		"language": "en",
+		"note": "publisher: Cambridge University Press",
+		"page": "39-69",
+		"source": "Cambridge University Press",
+		"title": "Tudor Writings on Rhetoric",
+		"URL": "http://www.cambridge.org/core/journals/studies-in-the-renaissance/article/tudor-writings-on-rhetoric/1015B6BA67EB7BA70B33C2C8959D7C6D",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Ong",
+				"given": "Walter J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
+				]
+			],
+			"season": "ed"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/VX36ABXV",
+		"type": "book",
+		"title": "The Reader in the Book",
+		"author": [
+			{
+				"family": "Orgel",
+				"given": "Stephen"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/M3WT5BI2",
+		"type": "book",
+		"edition": "2nd",
+		"event-place": "London",
+		"publisher-place": "London",
+		"title": "Classical and Christian Ideas in English Renaissance Poetry: A Student's Guide",
+		"author": [
+			{
+				"family": "Rivers",
+				"given": "Isabel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/FE8RKN6G",
+		"type": "book",
+		"publisher": "Cambridge",
+		"title": "The Cambridge History of Literary Criticism, vol.3: The Renaissance",
+		"editor": [
+			{
+				"family": "Norton",
+				"given": "Glyn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/JYHWUZC8",
+		"type": "book",
+		"publisher": "Leiden and New York",
+		"title": "English Renaissance Rhetoric and Poetics: A Systematic Bibliography of Primary and Secondary Sources",
+		"author": [
+			{
+				"family": "Plett",
+				"given": "Heinrich F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/HKK92ADI",
+		"type": "book",
+		"publisher": "Princeton",
+		"title": "A New History of Classical Rhetoric",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/BQGGZXSW",
+		"type": "book",
+		"publisher": "Oxford",
+		"title": "In Defence of Rhetoric",
+		"author": [
+			{
+				"family": "Vickers",
+				"given": "Brian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/9ZP4ACJT",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PN721.R445 2000",
+		"collection-title": "Cornell paperbacks",
+		"event-place": "Ithaca",
+		"ISBN": "978-0-8014-3008-4",
+		"language": "English",
+		"publisher": "Cornell University Press",
+		"publisher-place": "Ithaca",
+		"source": "search.lib.virginia.edu",
+		"title": "Renaissance Debates on Rhetoric",
+		"author": [
+			{
+				"family": "Rebhorn",
+				"given": "Wayne A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/LXSAX2QP",
+		"type": "book",
+		"archive_location": "By Request",
+		"call-number": "PA3637.R5 R4 1990",
+		"event-place": "Carbondale",
+		"ISBN": "978-0-8093-1592-5",
+		"language": "English",
+		"publisher": "Southern Illinois University Press",
+		"publisher-place": "Carbondale",
+		"source": "search.lib.virginia.edu",
+		"title": "Readings From Classical Rhetoric",
+		"author": [
+			{
+				"family": "Matsen",
+				"given": "Patricia P."
+			},
+			{
+				"family": "Rollinson",
+				"given": "Philip B."
+			},
+			{
+				"family": "Sousa",
+				"given": "Marion September 11-]"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/9Q2FVZUT",
+		"type": "book",
+		"archive_location": "Item is on order",
+		"call-number": "XX(10144237.1)",
+		"collection-title": "Routledge classics",
+		"event-place": "London",
+		"ISBN": "978-0-415-31280-6",
+		"language": "English, French (translated from)",
+		"publisher": "Routledge",
+		"publisher-place": "London",
+		"source": "search.lib.virginia.edu",
+		"title": "The Rule of Metaphor: The Creation of Meaning in Language",
+		"title-short": "The Rule of Metaphor",
+		"author": [
+			{
+				"family": "Ricoeur",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/FQ7YNVRX",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PA401.C65 1991",
+		"collection-title": "Ancient society and history",
+		"event-place": "Baltimore",
+		"ISBN": "978-0-8018-4055-5",
+		"language": "English",
+		"publisher": "Johns Hopkins University Press",
+		"publisher-place": "Baltimore",
+		"source": "search.lib.virginia.edu",
+		"title": "The Origins of Rhetoric in Ancient Greece",
+		"author": [
+			{
+				"family": "Cole",
+				"given": "Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/JLNYEV5I",
+		"type": "book",
+		"archive_location": "By Request",
+		"call-number": "PN1040.S4",
+		"collection-title": "Yale studies in English",
+		"event-place": "New York",
+		"language": "English",
+		"publisher": "H. Holt",
+		"publisher-place": "New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Select Translations From Scaliger's Poetics",
+		"URL": "https://hdl.handle.net/2027/hvd.32044010058873",
+		"author": [
+			{
+				"family": "Scaligero",
+				"given": "Giulio Cesare"
+			},
+			{
+				"family": "Padelford",
+				"given": "Frederick Morgan (tr)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1905"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/J96GGXBB",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PN227.R46 2007",
+		"event-place": "Cambridge, UK, New York",
+		"ISBN": "978-0-521-86640-8",
+		"language": "English",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge, UK, New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Renaissance Figures of Speech",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=1582542",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Sylvia"
+			},
+			{
+				"family": "Alexander",
+				"given": "Gavin (English",
+				"dropping-particle": "professor)"
+			},
+			{
+				"family": "Ettenhuber",
+				"given": "Katrin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/3FQKWWWS",
+		"type": "book",
+		"abstract": "What is criticism? And where is it to be found? Thinking about literature and the visual arts is found in many places - in treatises, apologies, and paragoni; in prefaces, letters, and essays; in commentaries, editions, reading notes, and commonplace books; in images, sculptures, and built spaces; within or on the thresholds of works of poetry and visual art. It is situated between different disciplines and methods. Critical ideas and methods come into England from other countries, and take root in particular locations - the court, the Inns of Court, the theatre, the great house, the printer's shop, the university. The practice of criticism is transplanted to the Americas and attempts to articulate the place of poetry in a new world. And commonplaces of classical poetics and rhetoric serve both to connect and to measure the space between different critical discourses. Tracing the history of the development of early modern thinking about literature and the visual arts requires consideration of various kinds of place - material, textual, geographical - and the practices particular to those places; it also requires that those different places be brought into dialogue with each other. This book brings together scholars working in departments of English, modern languages, and art history to look at the many different places of early modern criticism. It argues polemically for the necessity of looking afresh at the scope of criticism, and at what happens on its margins; and for interrogating our own critical practices and disciplinary methods0by investigating their history.",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PN88.P53 2021",
+		"event-place": "Oxford, United Kingdom",
+		"ISBN": "978-0-19-883468-7",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, United Kingdom",
+		"source": "search.lib.virginia.edu",
+		"title": "The Places of Early Modern Criticism",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://academic.oup.com/book/39327",
+		"author": [
+			{
+				"family": "Alexander",
+				"given": "Gavin (English professor) (editor)"
+			},
+			{
+				"family": "Gilby",
+				"given": "Emma (editor)"
+			},
+			{
+				"family": "Marr",
+				"given": "Alex (editor)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/JNYFLJ4B",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PA2902.M67 2003",
+		"event-place": "Oxford (England), New York",
+		"ISBN": "978-0-19-924987-9",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford (England), New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Renaissance Truth and the Latin Language Turn",
+		"author": [
+			{
+				"family": "Moss",
+				"given": "Ann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/L2G42PA9",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR421.D65 2007",
+		"event-place": "Chicago",
+		"ISBN": "978-0-226-15536-4",
+		"language": "English",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago",
+		"source": "search.lib.virginia.edu",
+		"title": "Scenes of Instruction in Renaissance Romance",
+		"author": [
+			{
+				"family": "Dolven",
+				"given": "Jeffrey Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/986P4G9G",
+		"type": "book",
+		"abstract": "The 400-year story of readers' struggles with a famously unreadable poem - and what they reveal about the history of reading and the future of literary studies.",
+		"archive_location": "Internet materials",
+		"call-number": "None",
+		"collection-title": "Princeton scholarship online",
+		"event-place": "Princeton",
+		"ISBN": "978-0-691-20159-7",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton",
+		"source": "search.lib.virginia.edu",
+		"title": "Reading and Not Reading the Faerie Queene: Spenser and the Making of Literary Criticism",
+		"title-short": "Reading and Not Reading the Faerie Queene",
+		"URL": "http://proxy01.its.virginia.edu/login?url=https://proxy1.library.virginia.edu/login?url=https://dx.doi.org/10.23943/princeton/9780691198989.001.0001",
+		"author": [
+			{
+				"family": "Nicholson",
+				"given": "Catherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/KXPM47CH",
+		"type": "book",
+		"abstract": "A revealing look at how the Orpheus myth helped Renaissance writers and thinkers understand the force of eloquenceIn ancient Greek mythology, the lyrical songs of Orpheus charmed the gods, and compelled animals, rocks, and trees to obey his commands. This mythic power inspired Renaissance philosophers and poets as they attempted to discover the hidden powers of verbal eloquence. They wanted to know: How do words produce action? In The Trials of Orpheus, Jenny Mann examines the key role the Orpheus story played in helping early modern writers and thinkers understand the mechanisms of rhetorical force. Mann demonstrates that the forms and figures of ancient poetry indelibly shaped the principles of sixteenth- and seventeenth-century scientific knowledge.Mann explores how Ovid’s version of the Orpheus myth gave English poets and natural philosophers the lexicon with which to explain language’s ability to move individuals without physical contact. These writers and thinkers came to see eloquence as an aesthetic force capable of binding, drawing, softening, and scattering audiences. Bringing together a range of examples from drama, poetry, and philosophy by Bacon, Lodge, Marlowe, Montaigne, Shakespeare, and others, Mann demonstrates that the fascination with Orpheus produced some of the most canonical literature of the age.Delving into the impact of ancient Greek thought and poetry in the early modern era, The Trials of Orpheus sheds light on how the powers of rhetoric became a focus of English thought and literature.",
+		"event-place": "Princeton",
+		"ISBN": "978-0-691-21923-3",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton",
+		"source": "Project MUSE",
+		"title": "The Trials of Orpheus: Poetry, Science, and the Early Modern Sublime",
+		"title-short": "The Trials of Orpheus",
+		"URL": "https://muse.jhu.edu/pub/267/monograph/book/97862",
+		"author": [
+			{
+				"family": "Mann",
+				"given": "Jenny C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/866J3ABL",
+		"type": "article-journal",
+		"abstract": "Deals with the relevance of teaching the epic 'The Faerie Queene,' by Edmund Spenser.  Example of the kind of appeal that detailed attention to Spenser's book; Discussion on the book; Advantages of close attention to the process of reading.",
+		"archive": "Education Research Complete",
+		"container-title": "Pedagogy",
+		"DOI": "10.1215/15314200-3-2-177",
+		"ISSN": "1531-4200",
+		"issue": "2",
+		"language": "English",
+		"source": "search.lib.virginia.edu",
+		"title": "What I Really Teach When I'm Teaching Spenser.",
+		"URL": "https://proxy01.its.virginia.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&site=eds-live&db=ehh&AN=9944580",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Judith H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/A3EP9VC4",
+		"type": "book",
+		"archive_location": "By Request, Clemons Stacks",
+		"call-number": "PR2358.M3",
+		"event-place": "Princeton, N.J.",
+		"ISBN": "978-0-691-06306-5",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"source": "search.lib.virginia.edu",
+		"title": "Spenser's Allegory: The Anatomy of Imagination",
+		"title-short": "Spenser's Allegory",
+		"author": [
+			{
+				"family": "MacCaffrey",
+				"given": "Isabel Gamble"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/MX998RTW",
+		"type": "book",
+		"event-place": "London, UNITED KINGDOM",
+		"ISBN": "978-0-203-02030-2",
+		"publisher": "Taylor & Francis Group",
+		"publisher-place": "London, UNITED KINGDOM",
+		"source": "ProQuest Ebook Central",
+		"title": "Polemic: Critical or Uncritical",
+		"title-short": "Polemic",
+		"URL": "http://ebookcentral.proquest.com/lib/uva/detail.action?docID=214872",
+		"author": [
+			{
+				"family": "Gallop",
+				"given": "Jane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/P2XU783W",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "P301.R347 1993",
+		"collection-title": "Knowledge, disciplinarity and beyond",
+		"event-place": "London?, Charlottesville",
+		"ISBN": "978-0-8139-1455-8",
+		"language": "English",
+		"publisher": "Bristol Classical Press, University Press of Virginia",
+		"publisher-place": "London?, Charlottesville",
+		"source": "search.lib.virginia.edu",
+		"title": "The Recovery of Rhetoric: Persuasive Discourse and Disciplinarity in the Human Sciences",
+		"title-short": "The Recovery of Rhetoric",
+		"author": [
+			{
+				"family": "Roberts",
+				"given": "Richard H. (Richard H.)"
+			},
+			{
+				"family": "Good",
+				"given": "J. M. M. (James M. M.)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/6E99YJ6W",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PA35.F67 2002",
+		"event-place": "Princeton, N.J.",
+		"ISBN": "978-0-691-07485-6",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"source": "search.lib.virginia.edu",
+		"title": "The Origins of Criticism: Literary Culture and Poetic Theory in Classical Greece",
+		"title-short": "The Origins of Criticism",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=457793",
+		"author": [
+			{
+				"family": "Ford",
+				"given": "Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/UB7IHFGT",
+		"type": "chapter",
+		"container-title": "The Bible, the Reformation and the Church: Essays in Honour of James Atkinson",
+		"event-place": "London, UNITED KINGDOM",
+		"ISBN": "978-0-567-55633-2",
+		"page": "84-108",
+		"publisher": "Bloomsbury Publishing Plc",
+		"publisher-place": "London, UNITED KINGDOM",
+		"source": "ProQuest Ebook Central",
+		"title": "The Coherence of the Text: How It Hangeth Together: The Bible in Reformation England",
+		"URL": "http://ebookcentral.proquest.com/lib/uva/detail.action?docID=743182",
+		"editor": [
+			{
+				"family": "Stephens",
+				"given": "W. P."
+			}
+		],
+		"author": [
+			{
+				"family": "Collinson",
+				"given": "Patrick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/T955QLSN",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "Z1003.5.G7 B69 2002",
+		"collection-title": "Material texts",
+		"event-place": "Philadelphia",
+		"ISBN": "978-0-8122-3633-0",
+		"language": "English",
+		"publisher": "University of Pennsylvania Press",
+		"publisher-place": "Philadelphia",
+		"source": "search.lib.virginia.edu",
+		"title": "Books and Readers in Early Modern England: Material Studies",
+		"title-short": "Books and Readers in Early Modern England",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=3441724",
+		"author": [
+			{
+				"family": "Andersen",
+				"given": "Jennifer Lotte"
+			},
+			{
+				"family": "Sauer",
+				"given": "Elizabeth"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/6FTNANU8",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "Z1003.3.E85 S7613 1999",
+		"collection-title": "Studies in print culture and the history of the book",
+		"event-place": "Amherst",
+		"ISBN": "978-1-55849-213-4",
+		"language": "English, French (translated from), Italian (translated from)",
+		"publisher": "University of Massachusetts Press",
+		"publisher-place": "Amherst",
+		"source": "search.lib.virginia.edu",
+		"title": "A History of Reading in the West",
+		"author": [
+			{
+				"family": "Cavallo",
+				"given": "Guglielmo"
+			},
+			{
+				"family": "Chartier",
+				"given": "Roger"
+			},
+			{
+				"family": "Cochrane",
+				"given": "Lydia G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/KZ4WDTSK",
+		"type": "book",
+		"abstract": "\"Long before the English fought a civil war over the meaning of liberty, poets were debating the benefits of constraint and the risks of bond-breaking. Early modern poets imagined rhyme as a band or fetter, and compared rhyme to the bonds that tie individuals to political, social, and religious communities. Because they believed that verse forms reflected cosmic and political patterns, early modern authors maintained that formal choices were never ideologically neutral. The charged nature of early modern forms is particularly visible in the dynamic history of the couplet: In the 1590s, poets like John Donne took up the Chaucerian couplet to signal their sexual and political radicalism, but by the middle of the seventeenth century Royalist poets had co-opted the couplet as a tool for reinforcing affective ties to king and country\"--",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR535.R48 R87 2021",
+		"event-place": "Princeton, New Jersey",
+		"ISBN": "978-0-691-21255-5",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, New Jersey",
+		"source": "search.lib.virginia.edu",
+		"title": "The Fetters of Rhyme: Liberty and Poetic Form in Early Modern England",
+		"title-short": "The Fetters of Rhyme",
+		"author": [
+			{
+				"family": "Rush",
+				"given": "Rebecca M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/ILMUNP96",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "P106.O5 1981",
+		"event-place": "Minneapolis",
+		"ISBN": "978-0-8166-1043-3",
+		"language": "English",
+		"publisher": "University of Minnesota Press",
+		"publisher-place": "Minneapolis",
+		"source": "search.lib.virginia.edu",
+		"title": "The Presence of the Word: Some Prolegomena for Cultural and Religious History",
+		"title-short": "The Presence of the Word",
+		"author": [
+			{
+				"family": "Ong",
+				"given": "Walter J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/K5ZI3IEX",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PN671.I68 1994",
+		"collection-title": "Cambridge studies in medieval literature",
+		"event-place": "Cambridge [England], New York, USA",
+		"ISBN": "978-0-521-41447-0",
+		"language": "English",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge [England], New York, USA",
+		"source": "search.lib.virginia.edu",
+		"title": "The Making of Textual Culture: Grammatica and Literary Theory, 350-1100",
+		"title-short": "The Making of Textual Culture",
+		"author": [
+			{
+				"family": "Irvine",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/MXW4QY4L",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PE68.U5 T87 1991",
+		"event-place": "Princeton, N.J.",
+		"ISBN": "978-0-691-06897-8",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"source": "search.lib.virginia.edu",
+		"title": "Reading Minds: The Study of English in the Age of Cognitive Science",
+		"title-short": "Reading Minds",
+		"author": [
+			{
+				"family": "Turner",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/RRG7JB5N",
+		"type": "book",
+		"abstract": "\"The Reformation changed forever how the sacrament of the Eucharist was understood. This study of six canonical early modern lyric poets traces the literary afterlife of what was one of the greatest doctrinal shifts in English history. Sophie Read argues that the move from a literal to a figurative understanding of the phrase 'this is my body' exerted a powerful imaginative pull on successive generations. To illustrate this, she examines in detail the work of Southwell, Donne, Herbert, Crashaw, Vaughan and Milton, who between them represent a broad range of doctrinal and confessional positions, from the Jesuit Southwell to Milton's heterodox Puritanism. Individually, each chapter examines how Eucharistic ideas are expressed through a particular rhetorical trope; together, they illuminate the continued importance of the Eucharist's transformation well into the seventeenth century - not simply as a matter of doctrine, but as a rhetorical and poetic mode. This book: Combines a literary approach focused on a close reading of the texts with an understanding of the historical and theological background ; Assimilates and responds to the increasing attention paid to the Eucharist in literary studies ; Brings together six canonical early modern English poets and presents each in a stand-alone discussion\"--Publisher's website.",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR508.R4 R38 2013",
+		"collection-title": "Ideas in context",
+		"event-place": "Cambridge, UK",
+		"ISBN": "978-1-107-03273-6",
+		"language": "English",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge, UK",
+		"source": "search.lib.virginia.edu",
+		"title": "Eucharist and the Poetic Imagination in Early Modern England",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=1099953",
+		"author": [
+			{
+				"family": "Read",
+				"given": "Sophie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/KZ88Y7AP",
+		"type": "article-journal",
+		"container-title": "The Cambridge Quarterly",
+		"DOI": "10.1093/camqtly/bfr040",
+		"ISSN": "0008-199X",
+		"issue": "2",
+		"journalAbbreviation": "The Cambridge Quarterly",
+		"page": "209-228",
+		"source": "Silverchair",
+		"title": "Rhetoric and Rethinking in Bentley's Paradise Lost",
+		"URL": "https://doi.org/10.1093/camqtly/bfr040",
+		"volume": "41",
+		"author": [
+			{
+				"family": "Read",
+				"given": "Sophie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/LANDUTKM",
+		"type": "book",
+		"abstract": "\"Death, light, figuration and, especially, analogical expressions of figuration, are the primary subjects of this book. They generate associated interests: the relation of literature and science, the methodology of thought and argument, and the processes of narrative, discovery, and interpretation. Creativity, optics, rhetoric, and language are focal as well\"--",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR428.D4 A53 2017",
+		"event-place": "New York",
+		"ISBN": "978-0-8232-7277-8",
+		"language": "English",
+		"publisher": "Fordham University Press",
+		"publisher-place": "New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Light and Death: Figuration in Spenser, Kepler, Donne, Milton",
+		"title-short": "Light and Death",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Judith H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/JEY3ZCD4",
+		"type": "book",
+		"abstract": "A study of the archaeology and sociology of the use of margins and other blank spaces. Marginalia constitute a significant dimension of the book's history, and what readers did to books often added to their value. This study deals with books in which the text and marginalia are in intense communication with each other, in which reading constitutes an active and sometimes adversarial engagement with the book. The underlying questions is at what point marginalia, the legible incorporation of the work of reading into the text of the book, became a way of defacing it rather than of increasing its value--why did we want books to lose their history?",
+		"archive_location": "Clemons Stacks",
+		"call-number": "Z4.O74 2015",
+		"collection-title": "Oxford textual perspectives",
+		"event-place": "Oxford, United Kingdom",
+		"ISBN": "978-0-19-873756-8",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, United Kingdom",
+		"source": "search.lib.virginia.edu",
+		"title": "The Reader in the Book: A Study of Spaces and Traces",
+		"title-short": "The Reader in the Book",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=4310757",
+		"author": [
+			{
+				"family": "Orgel",
+				"given": "Stephen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/Z73LG4JP",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT), By Request",
+		"call-number": "PR2358.A3 H27",
+		"collection-title": "Longman annotated English poets",
+		"event-place": "London, New York",
+		"ISBN": "978-0-582-48106-0",
+		"language": "English",
+		"publisher": "Longman",
+		"publisher-place": "London, New York",
+		"source": "search.lib.virginia.edu",
+		"title": "The Faerie Queene",
+		"author": [
+			{
+				"family": "Spenser",
+				"given": "Edmund ?-"
+			},
+			{
+				"family": "Hamilton",
+				"given": "A. C. (Albert Charles)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/H3GUP8ZX",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR428.C48 C86 2002",
+		"event-place": "Oxford, New York",
+		"ISBN": "978-0-19-818735-6",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, New York",
+		"source": "search.lib.virginia.edu",
+		"title": "The Literary Culture of the Reformation: Grammar and Grace",
+		"title-short": "The Literary Culture of the Reformation",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=422870",
+		"author": [
+			{
+				"family": "Cummings",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/VNI74MBX",
+		"type": "book",
+		"publisher": "Printed by T. N. for H. Herringman, at the Anchor in the Lower Walk of the New Exchange. 1674.",
+		"title": "Reflections on Aristotle's treatise of poesie containing the necessary, rational, and universal rules for epick, dramatick, and the other sorts of poetry : with reflections on the works of the ancient and modern poets, and their faults noted",
+		"title-short": "Reflections on Aristotle's treatise of poesie containing the necessary, rational, and universal rules for epick, dramatick, and the other sorts of poetry",
+		"URL": "http://name.umdl.umich.edu/A58068.0001.001",
+		"author": [
+			{
+				"family": "Rapin",
+				"given": "René"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1674",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/SC9Z62L6",
+		"type": "book",
+		"archive_location": "By Request",
+		"call-number": "PN88.S6 1976",
+		"collection-title": "Columbia University studies in English and comparative literature",
+		"event-place": "Westport, Conn",
+		"ISBN": "978-0-8371-9025-9",
+		"language": "English",
+		"publisher": "Greenwood Press",
+		"publisher-place": "Westport, Conn",
+		"source": "search.lib.virginia.edu",
+		"title": "A History of Literary Criticism in the Renaissance",
+		"author": [
+			{
+				"family": "Spingarn",
+				"given": "Joel Elias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/XQDQTJJW",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PA4374.M7 1993",
+		"collection-title": "World's Classics",
+		"event-place": "Oxford, New York",
+		"ISBN": "978-0-19-283094-4",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Selected Essays and Dialogues",
+		"author": [
+			{
+				"literal": "Plutarch"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/MAT5JRCD",
+		"type": "article-journal",
+		"container-title": "Past & Present",
+		"ISSN": "0031-2746",
+		"issue": "73",
+		"note": "publisher: [Oxford University Press, The Past and Present Society]",
+		"page": "28-41",
+		"source": "JSTOR",
+		"title": "High and Low: The Theme of Forbidden Knowledge in the Sixteenth and Seventeenth Centuries",
+		"title-short": "High and Low",
+		"URL": "https://www.jstor.org/stable/650424",
+		"author": [
+			{
+				"family": "Ginzburg",
+				"given": "Carlo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/DAQP4QCW",
+		"type": "article-journal",
+		"container-title": "Modern Language Quarterly",
+		"DOI": "10.1215/00267929-33-4-355",
+		"ISSN": "0026-7929",
+		"issue": "4",
+		"journalAbbreviation": "Modern Language Quarterly",
+		"page": "355-369",
+		"source": "Silverchair",
+		"title": "To See New Worlds Curiosity in Paradise Lost",
+		"URL": "https://doi.org/10.1215/00267929-33-4-355",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Brantlinger",
+				"given": "Patrick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1972",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/HDHQBMQB",
+		"type": "book",
+		"archive_location": "By Request, Clemons Stacks (CHECKED OUT)",
+		"call-number": "PE877.S58 1988",
+		"event-place": "Princeton, N.J.",
+		"ISBN": "978-0-691-06736-0",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"source": "search.lib.virginia.edu",
+		"title": "Sacred Rhetoric: The Christian Grand Style in the English Renaissance",
+		"title-short": "Sacred Rhetoric",
+		"author": [
+			{
+				"family": "Shuger",
+				"given": "Debora K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/6EA93AYG",
+		"type": "article-journal",
+		"container-title": "Studies in Philology",
+		"ISSN": "0039-3738",
+		"issue": "5",
+		"note": "publisher: University of North Carolina Press",
+		"page": "1-106",
+		"source": "JSTOR",
+		"title": "Ben Jonson's Library and Marginalia: An Annotated Catalogue",
+		"title-short": "Ben Jonson's Library and Marginalia",
+		"URL": "https://www.jstor.org/stable/4173858",
+		"volume": "71",
+		"author": [
+			{
+				"family": "McPherson",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/TBLU6BU2",
+		"type": "book",
+		"abstract": "First published in 1958 as the third edition of a 1914 original, this book supplies a detailed bibliography of the poet and cleric John Donne. Keynes notes the various editions of Donne's prose and poetic writings, as well as books dedicated to him, his biography by Walton and books from Donne's own library, in addition to each text's location in libraries around the world. This book will be of value to anyone with an interest in Donne and his works.",
+		"event-place": "Cambridge",
+		"ISBN": "978-1-107-62406-1",
+		"note": "DOI: 10.1017/CBO9781316530092",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "Cambridge University Press",
+		"title": "A Bibliography of Dr. John Donne",
+		"URL": "https://www.cambridge.org/core/books/bibliography-of-dr-john-donne/60103A4634B2D2BFA4C8B7EAB9FCC076",
+		"author": [
+			{
+				"family": "Keynes",
+				"given": "Geoffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/MM7EURE6",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "BS501.A1 H57 1998",
+		"event-place": "Downers Grove, Ill",
+		"ISBN": "978-0-8308-1452-7",
+		"language": "English",
+		"publisher": "InterVarsity Press",
+		"publisher-place": "Downers Grove, Ill",
+		"source": "search.lib.virginia.edu",
+		"title": "Historical Handbook of Major Biblical Interpreters",
+		"author": [
+			{
+				"family": "McKim",
+				"given": "Donald K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/3S5AV9S5",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "BR305.2.C65 2003",
+		"event-place": "London",
+		"ISBN": "978-1-84212-681-3",
+		"language": "English",
+		"publisher": "Weidenfeld & Nicolson",
+		"publisher-place": "London",
+		"source": "search.lib.virginia.edu",
+		"title": "The Reformation",
+		"author": [
+			{
+				"family": "Collinson",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/WM6CMWK4",
+		"type": "book",
+		"archive_location": "Clemons Stacks, By Request",
+		"call-number": "P35.O5 1988",
+		"collection-title": "New accents (Methuen & Co.)",
+		"event-place": "London, New York",
+		"ISBN": "978-0-415-02796-0",
+		"language": "English",
+		"publisher": "Routledge",
+		"publisher-place": "London, New York",
+		"source": "search.lib.virginia.edu",
+		"title": "Orality and Literacy: The Technologizing of the Word",
+		"title-short": "Orality and Literacy",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=3060261",
+		"author": [
+			{
+				"family": "Ong",
+				"given": "Walter J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/6XXWYFDC",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR418.E45 N53 2013",
+		"event-place": "Philadelphia",
+		"ISBN": "978-0-8122-4558-5",
+		"language": "English",
+		"publisher": "University of Pennsylvania Press",
+		"publisher-place": "Philadelphia",
+		"source": "search.lib.virginia.edu",
+		"title": "Uncommon Tongues: Eloquence and Eccentricity in the English Renaissance",
+		"title-short": "Uncommon Tongues",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=3442304",
+		"author": [
+			{
+				"family": "Nicholson",
+				"given": "Catherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/GDRDJ5RA",
+		"type": "book",
+		"abstract": "\"The Bible was, by any measure, the most important book in early modern England. It preoccupied the scholarship of the era, and suffused the idioms of literature and speech. Political ideas rode on its interpretation and deployed its terms. It was intricately related to the project of natural philosophy. And it was central to daily life at all levels of society from parliamentarian to preacher, from the 'boy that driveth the plough', famously invoked by Tyndale, to women across the social scale. It circulated in texts ranging from elaborate folios to cheap catechisms; and it was mediated in numerous forms, as pictures, songs, and embroideries; and as proverbs, commonplaces, and quotations. Bringing together leading scholars from a range of fields, 'The Oxford Handbook of the Bible in Early Modern England, 1530-1700' explores how the scriptures served as a generative motor for ideas, and a resource for creative and political thought, as well as for domestic and devotional life. Sections tackle the knotty issues of translation, the rich range of early modern biblical scholarship, Bible dissemination and circulation, the changing political uses of the Bible, literary appropriations and responses, and the reception of the text across a range of contexts and media. Where existing scholarship focuses, typically, on Tyndale and the King James Bible of 1611, The Oxford Handbook of the Bible in England, 1530-1700 goes further, tracing the vibrant and shifting landscape of biblical culture in the two centuries following the Reformation.\"--Book jacket.",
+		"archive_location": "By Request",
+		"call-number": "BS447.5.G7 O94 2015",
+		"collection-title": "Oxford handbooks",
+		"event-place": "Oxford, United Kingdom",
+		"ISBN": "978-0-19-968697-1",
+		"language": "English",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, United Kingdom",
+		"source": "search.lib.virginia.edu",
+		"title": "The Oxford Handbook of the Bible in Early Modern England, C. 1530-1700",
+		"author": [
+			{
+				"family": "Killeen",
+				"given": "Kevin (editor)"
+			},
+			{
+				"family": "Smith",
+				"given": "Helen (editor)"
+			},
+			{
+				"family": "Willie",
+				"given": "Rachel (editor)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/ELTL2393",
+		"type": "article-journal",
+		"container-title": "Word & Image",
+		"issue": "4",
+		"page": "391-404",
+		"title": "Curiosity in Early Modern Science",
+		"URL": "DOI: 10.1080/02666286.1995.10435928",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Daston",
+				"given": "Lorraine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/FMIPTY53",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR149.B5 D53 1992",
+		"event-place": "Grand Rapids, Mich",
+		"ISBN": "978-0-8028-3634-2",
+		"language": "English",
+		"publisher": "W.B. Eerdmans",
+		"publisher-place": "Grand Rapids, Mich",
+		"source": "search.lib.virginia.edu",
+		"title": "A Dictionary of Biblical Tradition in English Literature",
+		"author": [
+			{
+				"family": "Jeffrey",
+				"given": "David Lyle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/H24SUE5Q",
+		"type": "book",
+		"archive_location": "home",
+		"call-number": "PN1040.A53 E3 1986",
+		"event-place": "Princeton, N.J.",
+		"ISBN": "978-0-691-06697-4",
+		"language": "English",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"source": "search.lib.virginia.edu",
+		"title": "Poetic and Legal Fiction in the Aristotelian Tradition",
+		"author": [
+			{
+				"family": "Eden",
+				"given": "Kathy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/IHDH4P7E",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR418.E45 M36 2012",
+		"event-place": "Ithaca, N.Y.",
+		"ISBN": "978-0-8014-4965-9",
+		"language": "English",
+		"publisher": "Cornell University Press",
+		"publisher-place": "Ithaca, N.Y.",
+		"source": "search.lib.virginia.edu",
+		"title": "Outlaw Rhetoric: Figuring Vernacular Eloquence in Shakespeare's England",
+		"title-short": "Outlaw Rhetoric",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=3138294",
+		"author": [
+			{
+				"family": "Mann",
+				"given": "Jenny C. (Jenny Caroline)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/AC45HSMT",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PN1031.P8 2007",
+		"collection-title": "Cornell paperbacks",
+		"event-place": "Ithaca",
+		"ISBN": "978-0-8014-3758-8",
+		"language": "English",
+		"publisher": "Cornell University Press",
+		"publisher-place": "Ithaca",
+		"source": "search.lib.virginia.edu",
+		"title": "The Art of English Poesy",
+		"URL": "https://proxy1.library.virginia.edu/login?url=https://ebookcentral.proquest.com/lib/uva/detail.action?docID=3138153",
+		"author": [
+			{
+				"family": "Puttenham",
+				"given": "George"
+			}
+		],
+		"editor": [
+			{
+				"family": "Whigham",
+				"given": "Frank"
+			},
+			{
+				"family": "Rebhorn",
+				"given": "Wayne A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/SRC7AEQP",
+		"type": "book",
+		"abstract": "That Is to Say: His Flowres, Hearbes, Weedes, the Fruites of Warre, the Comedie Called Supposes, the Tragedie of Iocasta, the Steele Glasse, the Complaint of Phylomene, the Storie of Ferdinando Ieronimi, and the Pleasure at Kenelworth Castle",
+		"archive_location": "Internet materials",
+		"call-number": "Internet",
+		"event-place": "London",
+		"language": "English",
+		"publisher": "Imprinted by Abell Ieffes, dwelling at the Fore Streéte, without Creéplegate, neere vnto Grubstréete",
+		"publisher-place": "London",
+		"source": "search.lib.virginia.edu",
+		"title": "The Whole Woorkes of George Gascoigne Esquire: Newlye Compyled Into One Volume",
+		"title-short": "The Vvhole Woorkes of George Gascoigne Esquire",
+		"URL": "https://proxy1.library.virginia.edu/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:citation:99841431",
+		"author": [
+			{
+				"family": "Gascoigne",
+				"given": "George"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1587"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/DKKWNSZG",
+		"type": "chapter",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PR70.S6 1937  v.1, v.2",
+		"container-title": "Elizabethan Critical Essays",
+		"event-place": "London",
+		"language": "English",
+		"number-of-volumes": "2",
+		"page": "226-302",
+		"publisher": "Oxford University Press",
+		"publisher-place": "London",
+		"source": "search.lib.virginia.edu",
+		"title": "A Discourse of English Poetrie",
+		"URL": "https://catalog.hathitrust.org/Record/001016752",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Smith",
+				"given": "G. Gregory"
+			}
+		],
+		"author": [
+			{
+				"family": "Webbe",
+				"given": "William"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/LURXS2Q7",
+		"type": "book",
+		"archive_location": "Internet materials",
+		"call-number": "Internet",
+		"event-place": "Middelburg",
+		"language": "English",
+		"publisher": "R. Schilders",
+		"publisher-place": "Middelburg",
+		"source": "search.lib.virginia.edu",
+		"title": "The Artes of Logike and Rethorike",
+		"title-short": "The Artes of Logike and Rethorike",
+		"URL": "https://proxy1.library.virginia.edu/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:citation:99847828",
+		"author": [
+			{
+				"family": "Fenner",
+				"given": "Dudley"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1584"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/4YINRFCV",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PN227.S45 1550 1961ed.",
+		"collection-title": "Scholars' facsimiles & reprints",
+		"event-place": "Gainesville, Fla",
+		"language": "English",
+		"publisher": "Scholars' Facsimiles & Reprints",
+		"publisher-place": "Gainesville, Fla",
+		"source": "search.lib.virginia.edu",
+		"title": "A Treatise of Schemes and Tropes (1550)",
+		"URL": "https://hdl.handle.net/2027/umn.31951002250534g",
+		"author": [
+			{
+				"family": "Sherry",
+				"given": "Richard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/IFJXYJGM",
+		"type": "book",
+		"archive_location": "Ivy Stacks By Request (CHECKED OUT)",
+		"call-number": "PN173.P4 C7 1971",
+		"event-place": "Menston",
+		"language": "English",
+		"publisher": "Scolar Press",
+		"publisher-place": "Menston",
+		"source": "search.lib.virginia.edu",
+		"title": "The Garden of Eloquence (1577)",
+		"author": [
+			{
+				"family": "Peacham",
+				"given": "Henry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/HARWXV6N",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PN173.P4 C7 1953 1954ed.",
+		"event-place": "Gainesville, Fla",
+		"language": "English",
+		"publisher": "Scholars' Facsimiles & Reprints",
+		"publisher-place": "Gainesville, Fla",
+		"source": "search.lib.virginia.edu",
+		"title": "The Garden of Eloquence (1593)",
+		"author": [
+			{
+				"family": "Peacham",
+				"given": "Henry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1954"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/ICEDCI9U",
+		"type": "book",
+		"archive_location": "Clemons Stacks",
+		"call-number": "PE1481.D3 1586a",
+		"event-place": "Menston (Yorks.)",
+		"language": "English",
+		"publisher": "Scolar P.",
+		"publisher-place": "Menston (Yorks.)",
+		"source": "search.lib.virginia.edu",
+		"title": "The English Secretorie (1586)",
+		"author": [
+			{
+				"family": "Day",
+				"given": "Angel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/P6PC8F86",
+		"type": "book",
+		"archive_location": "Clemons Stacks (CHECKED OUT)",
+		"call-number": "PE1407.W63 1994",
+		"event-place": "University Park, Pa",
+		"ISBN": "978-0-271-00941-4",
+		"language": "English",
+		"publisher": "Pennsylvania State University Press",
+		"publisher-place": "University Park, Pa",
+		"source": "search.lib.virginia.edu",
+		"title": "The Art of Rhetoric (1560)",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Thomas"
+			}
+		],
+		"editor": [
+			{
+				"family": "Medine",
+				"given": "Peter E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/VLHCMH5P",
+		"type": "book",
+		"archive_location": "By Request",
+		"call-number": "PE1407.H62",
+		"collection-title": "Princeton University Studies in English",
+		"event-place": "Princeton",
+		"language": "English",
+		"publisher": "Princeton university press",
+		"publisher-place": "Princeton",
+		"source": "search.lib.virginia.edu",
+		"title": "Directions for Speech and Style ca. 1599",
+		"author": [
+			{
+				"family": "Hoskins",
+				"given": "John"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hudson",
+				"given": "Hoyt H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1935"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/3RAYXIS5",
+		"type": "chapter",
+		"container-title": "Elizabethan Critical Essays",
+		"event-place": "Oxford",
+		"number-of-volumes": "2",
+		"page": "87-126",
+		"publisher": "Clarendon Press",
+		"publisher-place": "Oxford",
+		"source": "HathiTrust",
+		"title": "Spenser-Harvey Correspondence",
+		"URL": "https://catalog.hathitrust.org/Record/001016752",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Smith",
+				"given": "G. Gregory"
+			}
+		],
+		"author": [
+			{
+				"family": "Spenser",
+				"given": "Edmund"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/K3ZV2H7Q",
+		"type": "book",
+		"archive_location": "By Request, Clemons Stacks (CHECKED OUT)",
+		"call-number": "PR2601.H4 (11 volumes)",
+		"event-place": "Oxford",
+		"ISBN": "978-0-19-811352-2",
+		"language": "English",
+		"publisher": "The Clarendon Press",
+		"publisher-place": "Oxford",
+		"source": "search.lib.virginia.edu",
+		"title": "Ben Jonson",
+		"author": [
+			{
+				"family": "Jonson",
+				"given": "Ben ?-"
+			},
+			{
+				"family": "Herford",
+				"given": "C. H. (Charles Harold) (editor)"
+			},
+			{
+				"family": "Simpson",
+				"given": "Percy (editor)"
+			},
+			{
+				"family": "Simpson",
+				"given": "Evelyn Mary Spearing (editor)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1925"
+				]
+			],
+			"season": "1963"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/92ZPUI6Q",
+		"type": "book",
+		"archive_location": "Clemons Stacks, By Request",
+		"call-number": "P37.5.F53 G5 1994",
+		"event-place": "Cambridge, New York, NY, USA",
+		"ISBN": "978-0-521-42992-4",
+		"language": "English",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge, New York, NY, USA",
+		"source": "search.lib.virginia.edu",
+		"title": "The Poetics of Mind: Figurative Thought, Language, and Understanding",
+		"title-short": "The Poetics of Mind",
+		"author": [
+			{
+				"family": "Gibbs",
+				"given": "Raymond W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9445006/items/DUNHTAFV",
+		"type": "article-journal",
+		"abstract": "“A Dark Speakyng”: English Translations of 1 Corinthians 13:12 and What We Can See in Them",
+		"language": "en",
+		"source": "www.academia.edu",
+		"title": "“A Dark Speakyng”: English Translations of 1 Corinthians 13:12 and What We Can See in Them",
+		"title-short": "“A Dark Speakyng”",
+		"URL": "https://www.academia.edu/71990296/_A_Dark_Speakyng_English_Translations_of_1_Corinthians_13_12_and_What_We_Can_See_in_Them",
+		"author": [
+			{
+				"family": "Gruenler",
+				"given": "Curtis"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					6,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					1
+				]
+			]
+		}
+	}
+]
